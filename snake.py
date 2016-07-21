@@ -1,7 +1,6 @@
 from snake_segment import SnakeSegment
 from snake_head import SnakeHead
 from point import Point
-from bounding_box import BoundingBox
 
 class Snake:
 
